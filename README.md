@@ -1,2 +1,2 @@
 # delta-demo
-This is my sigma batch repository
+This is demo for git & git hub class.
